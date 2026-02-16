@@ -148,19 +148,3 @@ CLI → Services → Models → Data
 - **Models** define the data structure
 
 This separation improves **readability, teamwork, and maintainability**.
-
----
-
-# Project Goal
-
-Create a modular CLI application that allows users to:
-
-- Explore destinations
-- Search travel information
-- View useful travel details
-
----
-
-# 📄 License
-
-Educational project – no commercial use.
