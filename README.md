@@ -140,11 +140,9 @@ Contains the core functionality.
 ## Summary
 
 ```
-CLI → Services → Models → Data
+CLI → Services → Models
 ```
 
 - **CLI** talks to the user
 - **Services** perform the logic
 - **Models** define the data structure
-
-This separation improves **readability, teamwork, and maintainability**.
