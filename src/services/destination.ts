@@ -70,6 +70,3 @@ export const getDestinationInfo = async (
     throw new Error("unknown error");
   }
 };
-
-const destInfo = await getDestinationInfo("japan");
-console.log(destInfo);
