@@ -12,9 +12,14 @@ type DestinationInfo = {
   flag: string;
 };
 
+type RestCurrency = {
+  name: string;
+  symbol: string;
+};
+
 type RestCountryResponse = {
   // defined RestCountryRespone to avoid implicit any
-  currencies: Record<string, unknown>;
+  currencies: Record<string, RestCurrency>;
   flag: string;
 };
 
