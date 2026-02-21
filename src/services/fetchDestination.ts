@@ -53,5 +53,5 @@ export const getDestinationInfo = async (
   }
 };
 
-const destInfo = await getDestinationInfo("sweden");
-console.log(destInfo);
+/*const destInfo = await getDestinationInfo("sweden");
+console.log(destInfo);*/
